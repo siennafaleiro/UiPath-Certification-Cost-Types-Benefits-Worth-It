@@ -58,7 +58,7 @@ As RPA converges with Artificial Intelligence (AI), this track addresses the ski
 
 The pinnacle of the design and strategy track, this certification validates the ability to oversee enterprise-wide RPA adoption.
 
-* **UiPath Certified Automation Solution Architect Professional (UiASAP)**:
+* **[UiPath Certified Automation Solution Architect Professional (UiASAP)](https://github.com/siennafaleiro/UiPath-Certification-Cost-Types-Benefits-Worth-It/blob/main/Solution%20Architect.md)**:
     * **Target Audience**: Senior professionals responsible for the end-to-end technical architecture of an RPA solution.
     * **Focus**: Advanced topics like security, infrastructure, governance, and deployment strategies.
 
