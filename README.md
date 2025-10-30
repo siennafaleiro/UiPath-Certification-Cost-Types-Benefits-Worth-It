@@ -32,8 +32,8 @@ This is the foundational stepping stone, ideal for those starting their RPA jour
 
 This track focuses on the "what" and "why" of automation, emphasizing the ability to identify, analyze, and document automation opportunities.
 
-* **UiPath Certified Business Analyst (UiABA)**: Focuses on analyzing business processes, creating Process Definition Documents (PDDs), and stakeholder collaboration.
-* **UiPath Certified Advanced Business Analyst (UiABAA)**: Validates expert-level understanding of process mining and managing complex automation pipelines.
+* **[UiPath Certified Business Analyst (UiABA)](https://github.com/siennafaleiro/UiPath-Certification-Cost-Types-Benefits-Worth-It/blob/main/Business%20Analyst.md)**: Focuses on analyzing business processes, creating Process Definition Documents (PDDs), and stakeholder collaboration.
+* **[UiPath Certified Advanced Business Analyst (UiABAA)](https://github.com/siennafaleiro/UiPath-Certification-Cost-Types-Benefits-Worth-It/blob/main/Business%20Analyst.md)**: Validates expert-level understanding of process mining and managing complex automation pipelines.
 
 ### 💻 Automation Developer
 
