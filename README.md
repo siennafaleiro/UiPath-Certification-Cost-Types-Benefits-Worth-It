@@ -51,8 +51,8 @@ This is the core technical track, essential for those who build the automation s
 
 As RPA converges with Artificial Intelligence (AI), this track addresses the skills needed to build intelligent automation solutions.
 
-* **UiPath Certified Specialized AI Professional (UiSAI)**: Focuses on implementing and utilizing UiPath's AI capabilities (Document Understanding, AI Center) to process unstructured data.
-* **UiPath Certified Specialized AI Architect (UiSAIA)**: Focuses on designing and architecting large-scale intelligent automation solutions, including integration and performance.
+* **[UiPath Certified Specialized AI Professional (UiSAI)](https://github.com/siennafaleiro/UiPath-Certification-Cost-Types-Benefits-Worth-It/blob/main/Specialized%20AI.md)**: Focuses on implementing and utilizing UiPath's AI capabilities (Document Understanding, AI Center) to process unstructured data.
+* **[UiPath Certified Specialized AI Architect (UiSAIA)](https://github.com/siennafaleiro/UiPath-Certification-Cost-Types-Benefits-Worth-It/blob/main/Specialized%20AI.md)**: Focuses on designing and architecting large-scale intelligent automation solutions, including integration and performance.
 
 ### 🏛️ Solution Architect
 
