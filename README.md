@@ -39,11 +39,11 @@ This track focuses on the "what" and "why" of automation, emphasizing the abilit
 
 This is the core technical track, essential for those who build the automation solutions. It's the most common path for individuals pursuing a **UiPath Certification** for developer roles.
 
-* **UiPath Certified Automation Developer (UiADA)**:
+* **[UiPath Certified Automation Developer (UiADA)](https://github.com/siennafaleiro/UiPath-Certification-Cost-Types-Benefits-Worth-It/blob/main/Automation%20Developer.md)**:
     * **Target Audience**: Developers with 6 months to 1 year of hands-on experience.
     * **Focus**: Intermediate to advanced development skills, error handling, best practices, and Orchestrator usage.
 
-* **UiPath Certified Advanced Developer Professional (UiADP)**:
+* **[UiPath Certified Advanced Developer Professional (UiADP)](https://github.com/siennafaleiro/UiPath-Certification-Cost-Types-Benefits-Worth-It/blob/main/Automation%20Developer.md)**:
     * **Target Audience**: Senior developers with 1+ years of experience in complex, enterprise-level projects. (Often referred to by the historical, highly searched keyword **UiCAD**).
     * **Focus**: Advanced debugging, complex data manipulation, reusable components, and robust, production-ready solution design. This is a highly respected professional-level **UiPath Certification**.
 
