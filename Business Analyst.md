@@ -22,7 +22,7 @@ A Business Analyst (BA) in the context of automation is a professional who ident
 
 - **UiABAA**: This specific abbreviation is not a standard, publicly listed UiPath certification like UiABA. It may be a variant or an internal designation, but the core role and certification for a Business Analyst in UiPath is covered by the UiABA credential.
 
-## UiPath UiABAA Exam Summary::
+## UiPath UiABAA Exam Summary:
 
 | **Field**             | **Details** |
 |------------------------|-------------|
