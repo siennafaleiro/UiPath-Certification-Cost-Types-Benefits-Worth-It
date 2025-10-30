@@ -24,7 +24,7 @@ The UiPath certification portfolio is designed to cater to various roles within 
 
 This is the foundational stepping stone, ideal for those starting their RPA journey. It validates basic-level knowledge and skills.
 
-* **UiPath Certified Automation Associate (UiAAA)**:
+* **[UiPath Certified Automation Associate (UiAAA)](https://github.com/siennafaleiro/UiPath-Certification-Cost-Types-Benefits-Worth-It/blob/main/Automation%20Associate.md)**:
     * **Target Audience**: Students, junior RPA developers, and business users who are new to the UiPath platform.
     * **Focus**: Core RPA concepts, Studio components, basic development activities, and orchestrator features. It’s the essential entry point to prove foundational competency in **UiPath Certification**.
 
