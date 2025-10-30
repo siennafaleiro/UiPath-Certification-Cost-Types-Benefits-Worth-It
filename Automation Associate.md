@@ -6,8 +6,9 @@ An Automation Associate is typically an individual who works alongside AI agents
 
 ## UiPath UiAAA Exam Summary:
 
+| **Field**             | **Details** |
+|------------------------|-------------|
 | **Exam Name** | UiPath Certified Professional Agentic Automation Associate (UiAAA) |
-|----------------|--------------------------------------------------------------------|
 | **Exam Code** | UiAAA |
 | **Exam Price** | $150 (USD) |
 | **Duration** | 90 mins |
